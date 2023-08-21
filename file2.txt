@@ -4,3 +4,4 @@ type: npm
 summary: Match balanced character pairs, like "{" and "}"
 homepage: https://github.com/juliangruber/balanced-match
 license: mit
+print hello world
